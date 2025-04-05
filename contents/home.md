@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Soughtlin](https://img.shields.io/badge/Soughtlin-github-blue?logo=github)](https://github.com/Soughtlin)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am an undergraduate student at the School of Computer Science, Sun Yat-sen University, majoring in Information and Computing Science.
+
+My long-term goal is to pursue a PhD in computer science and continue my academic journey in the field
 
 #### Email
-sli[at]cumt.edu.cn
+songhlin5@mail2.sysu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+BSc, Information and Computing Science, Sun Yat-sen University, 2022-2026 (expected)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Multimodal Large Language Model, Trustworthy Multimodal LLMs, Federated Learning
 

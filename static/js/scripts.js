@@ -1,8 +1,6 @@
-
-
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards']
+const section_names = ['home', 'publications', 'reaseach_experiences', 'skills', 'others']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -14,7 +12,8 @@ window.addEventListener('DOMContentLoaded', event => {
             target: '#mainNav',
             offset: 74,
         });
-    };
+    }
+    ;
 
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
@@ -48,7 +47,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 
     // Marked
-    marked.use({ mangle: false, headerIds: false })
+    marked.use({mangle: false, headerIds: false})
     section_names.forEach((name, idx) => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())
@@ -56,9 +55,9 @@ window.addEventListener('DOMContentLoaded', event => {
                 const html = marked.parse(markdown);
                 document.getElementById(name + '-md').innerHTML = html;
             }).then(() => {
-                // MathJax
-                MathJax.typeset();
-            })
+            // MathJax
+            MathJax.typeset();
+        })
             .catch(error => console.log(error));
     })
 

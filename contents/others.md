@@ -4,7 +4,7 @@
 
 2025.1.27 in Jincheng, Shanxi China
 
-![ski](img/run.jpg)
+![ski](img/ski.jpg)
 
 
 #### Running

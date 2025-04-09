@@ -4,7 +4,7 @@
 
 2025.1.27 in Jincheng, Shanxi China
 
-![ski](static/assets/img/ski.jpg)
+![ski](songhl.github.io/static/assets/img/run.jpg)
 
 
 #### Running
@@ -13,5 +13,5 @@
 
 Recent long distance running.
 
-![ski](static/assets/img/run.jpg)
+![ski](songhl.github.io/static/assets/img/run.jpg)
 

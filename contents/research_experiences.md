@@ -2,7 +2,6 @@
 
 **Aug. 2024 – Nov. 2024**
 - Responsible for coding and main sections of paper writing
-- GPA: 3.9/4.0
 
 **Brief introduction:**
 This research focuses on improving the understanding capabilities of multimodal video-language large models (VLLMs) using adaptive sparse memory for long videos.

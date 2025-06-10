@@ -110,3 +110,8 @@ section .main-body{
 }
 
 
+.main-body img {
+  max-width: 60%;   /* 不超过父容器宽度 */
+  height: auto;      /* 等比缩放 */
+  display: block;    /* 去掉底部空隙，可选 */
+}

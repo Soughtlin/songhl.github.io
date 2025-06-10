@@ -1,6 +1,6 @@
 #### Sun Yat-sen University (SYSU), China
 
-**Aug. 2024 – Nov. 2024**
+**Aug. 2024 – Dec. 2024**
 - Responsible for coding and main sections of paper writing
 
 **Brief introduction:**
@@ -12,8 +12,8 @@ This research focuses on improving the understanding capabilities of multimodal 
 
 #### Sun Yat-sen University, China
 
-**Nov. 2024 – Mar. 2025**
-- Responsible for discussion and determination of core innovations, coding, and main sections of paper writing
+**Dec. 2024 – Mar. 2025**
+- Responsible for conception, algorithm design, coding, and manuscript writing
 
 **Brief introduction:**
 This research focuses on addressing single-frame bias in long videos and aims to reduce hallucinations in VLLMs for long video temporal understanding tasks, while improving model performance and computational efficiency.
@@ -25,11 +25,11 @@ This research focuses on addressing single-frame bias in long videos and aims to
 
 #### Sun Yat-sen University, National University of Singapore (NUS)
 
-**Mar. 2025 – Present**
+**Mar. 2025 – May 2025**
 - Responsible for core innovation discovery, coding, and paper writing
 
 **Brief introduction:**
 This research focuses on Trustworthy Multimodal LLMs, with a specific goal of moment retrieval, improving the model’s reliability and temporal grounding capabilities.
-- Under the guidance of Junbin Xiao (Research Fellow at NUS), exploring the baseline model and core innovations, determining the goal to enhance model performance on the NExT-GQA dataset and improving video grounding capabilities.
-- Reproduced the current state-of-the-art model Chrono.
-- The work is still ongoing.
+- Designed three complementary reasoning paths and a reflection agent (PoE + MoE fusion) that jointly boost grounding fidelity \emph{without} sacrificing answer accuracy.
+- Achieved new state-of-the-art on NExT-GQA and DeVE-QA. Remarkably, the 2B variant already surpasses all existing 7B baselines.
+- Supervised by [Junbin Xiao](https://doc-doc.github.io/cv/#) (NUS) and Jisheng Dang (SYSU). The paper has been submitted to NeurIPS 2025 and is currently under review.

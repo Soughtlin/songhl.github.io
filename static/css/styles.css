@@ -10,6 +10,16 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+.image-row {
+  display: flex;
+  gap: 1rem;
+}
+.image-row img {
+  width: 50%;
+  height: auto;
+}
+
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;

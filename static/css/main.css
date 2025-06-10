@@ -115,3 +115,7 @@ section .main-body{
   height: auto;      /* 等比缩放 */
   display: block;    /* 去掉底部空隙，可选 */
 }
+
+html {
+  zoom: 1;
+}

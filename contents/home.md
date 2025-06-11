@@ -6,6 +6,8 @@ I am an undergraduate student at the School of Computer Science, Sun Yat-sen Uni
 
 My long-term goal is to pursue a PhD in computer science and continue my academic journey in the field
 
+Click here to view my [CV](static/assets/CV_HuilinSong.pdf)
+
 #### Email
 songhlin5@mail2.sysu.edu.cn
 

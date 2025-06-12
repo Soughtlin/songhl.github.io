@@ -15,7 +15,7 @@ songhlin5@mail2.sysu.edu.cn
 BSc, Information and Computing Science, Sun Yat-sen University, 2022-2026 (expected)
 
 #### Research Interests
-Multimodal Large Language Model, Trustworthy Multimodal LLMs, Federated Learning.
+Multimodal LLM and Trustworthiness, Reinforced Learning, Federated Learning.
 
-I am eager to explore other fields as well and am excited about the opportunity to expand my research horizons.
+I am eager to explore other fields and excited about the opportunity to expand my research horizons.
 

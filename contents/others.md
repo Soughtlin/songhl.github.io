@@ -2,7 +2,7 @@
 
 2025-01-27, Jincheng, Shanxi, China
 
-![ski1](github.com/Soughtlin/songhl.github.io/static/assets/img/ski1.jpg)
+![ski1](https://github.com/Soughtlin/songhl.github.io/blob/main/static/assets/img/ski1.jpg)
 
 2026-01-07, Guangzhou, Guangdong, China
 

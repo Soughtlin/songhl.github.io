@@ -17,5 +17,5 @@ BSc, Information and Computing Science, Sun Yat-sen University, 2022-2026 (expec
 #### Research Interests
 Reinforcement Learning, Quantitative Finance, Stochastic Control Problem
 
-I am eager to explore other fields as well and am excited about the opportunity to expand my research horizons.
+I am eager to explore other fields and excited about the opportunity to expand my research horizons.
 

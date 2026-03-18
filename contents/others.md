@@ -2,11 +2,11 @@
 
 2025-01-27, Jincheng, Shanxi, China
 
-![ski1](/assets/img/ski1.jpg)
+![ski1](songhl.github.io/static/assets/img/ski1.jpg)
 
 2026-01-07, Guangzhou, Guangdong, China
 
-![ski2](/assets/img/ski2.jpg)
+![ski2](songhl.github.io/static/assets/img/ski2.jpg)
 
 #### Running
 

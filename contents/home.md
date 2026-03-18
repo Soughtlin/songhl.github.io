@@ -2,9 +2,11 @@
 
 [![Soughtlin](https://img.shields.io/badge/Soughtlin-github-blue?logo=github)](https://github.com/Soughtlin)
 
-I am an undergraduate student at the School of Computer Science, Sun Yat-sen University, majoring in Information and Computing Science.
+I am currently an undergraduate student in Information and Computing Science at the School of Computer Science, Sun Yat-sen University.
 
-My long-term goal is to pursue a PhD in computer science and continue my academic journey in the field
+In September 2026, I will begin my PhD studies at The Hong Kong Polytechnic University (PolyU), focusing on financial mathematics.
+
+Click here to view my [CV](static/assets/curriculum_vitae_shl.pdf.pdf)
 
 #### Email
 songhlin5@mail2.sysu.edu.cn
@@ -13,7 +15,7 @@ songhlin5@mail2.sysu.edu.cn
 BSc, Information and Computing Science, Sun Yat-sen University, 2022-2026 (expected)
 
 #### Research Interests
-Multimodal Large Language Model, Trustworthy Multimodal LLMs, Federated Learning
+Reinforcement Learning, Quantitative Finance, Stochastic Control Problem
 
 I am eager to explore other fields as well and am excited about the opportunity to expand my research horizons.
 

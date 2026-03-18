@@ -6,7 +6,7 @@ I am currently an undergraduate student in Information and Computing Science at 
 
 In September 2026, I will begin my PhD studies at The Hong Kong Polytechnic University (PolyU), focusing on financial mathematics.
 
-Click here to view my [CV](songhl.github.io/static/assets/curriculum_vitae_shl.pdf)
+Click here to view my [CV](https://github.com/Soughtlin/songhl.github.io/blob/main/static/assets/curriculum_vitae_shl.pdf)
 
 #### Email
 songhlin5@mail2.sysu.edu.cn
